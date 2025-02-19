@@ -12,8 +12,8 @@ const about = {
     'Katarsis laimes eurovizija.',
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/rokas-pranevicius/',
+    github: 'https://github.com/Rocyzas/',
   },
 }
 
