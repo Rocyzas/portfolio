@@ -1,11 +1,9 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
   homepage: 'https://rocyzas.github.io/portfolio',
   title: 'JS.',
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
   name: 'Rokas Pranevicius',
   role: 'Software Engineer',
   description:
@@ -17,9 +15,6 @@ const about = {
   },
 }
 
-const projects = [
-]
-
 const skills = [
 ]
 
@@ -27,4 +22,4 @@ const contact = {
   email: 'pranas.rokas@gmail.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, skills, contact }
