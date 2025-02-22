@@ -1,6 +1,7 @@
 import { header } from '../../portfolio'
 import Navbar from '../Navbar/Navbar'
 import './Header.css'
+import monkeyIcon from '../../components/Header/monkey_icon.png';
 
 const Header = () => {
   const { homepage, title } = header
@@ -10,7 +11,7 @@ const Header = () => {
       <h3>
         {homepage ? (
           <a href={homepage} className='link'>
-            {title}
+            <img src={monkeyIcon} alt="Logo" className='logo' /> {/* Use the imported image */}
           </a>
         ) : (
           title
