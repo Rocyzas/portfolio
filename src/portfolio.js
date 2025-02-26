@@ -8,7 +8,7 @@ const about = {
   role: 'Software Engineer',
   description:
     'Katarsis laimes eurovizija.',
-  resume: 'https://drive.google.com/file/d/1EG5uUkooWlBh6BC3hoYPRcbGRO1d_qV_/view?usp=drive_link',
+  resume: 'https://drive.google.com/file/d/1iZQRCnpg3KeTh6KUi4r47wTlhw1cKoah/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/rokas-pranevicius/',
     github: 'https://github.com/Rocyzas/',
@@ -51,7 +51,7 @@ const projects = [
         description: "Implemented Multimodal fake news detection classifier to identify suspicious post from Reddit",
         stack: ['Python', 'Pytorch', 'Transformers'],
         sourceCode: "https://gitlab.com/ACopley/fakenews_detector/-/tree/classifier",
-        livePreview: 'https://drive.google.com/file/d/1axT6V4lmZXPWTOobiH4_Yc503uTepuXO/view?usp=sharing'
+        livePreview: 'https://drive.google.com/file/d/1KjxXTttONSiLapGaFK2wjdpDgUEgogzl/view?usp=sharing'
       }
 ];
 

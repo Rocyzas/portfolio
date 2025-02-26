@@ -11,7 +11,7 @@ const Header = () => {
       <h3>
         {homepage ? (
           <a href={homepage} className='link'>
-            <img src={monkeyIcon} alt="Logo" className='logo' /> {/* Use the imported image */}
+            <img src={monkeyIcon} alt="Logo" className='logo' />
           </a>
         ) : (
           title
