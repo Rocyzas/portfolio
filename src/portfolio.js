@@ -4,10 +4,10 @@ const header = {
 }
 
 const about = {
-  name: 'Rokas Pranevicius',
+  name: 'Rokas Pranevičius',
   role: 'Software Engineer',
   description:
-    'Katarsis laimes eurovizija.',
+    'Katarsis laimės Euroviziją.',
   resume: 'https://drive.google.com/file/d/1iZQRCnpg3KeTh6KUi4r47wTlhw1cKoah/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/rokas-pranevicius/',
